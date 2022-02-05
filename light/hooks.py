@@ -13,11 +13,11 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/light/css/light.css"
+app_include_css = "/assets/light/css/redtheme_app.css"
 # app_include_js = "/assets/light/js/light.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/light/css/light.css"
+web_include_css = "/assets/light/css/redtheme_web.css"
 # web_include_js = "/assets/light/js/light.js"
 
 # include custom scss in every website theme (without file extension ".scss")
